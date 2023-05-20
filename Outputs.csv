@@ -1,0 +1,9 @@
+Module_Name,Accuracy,Standard Deviation,Test-Set Accuracy Score
+XGBoost,86.6625,0.947117337,0.864
+Kernel SVM,85.3,1.060954759,0.8635
+Random Forest,86.6125,0.999140255,0.869
+Naive-Bayes,81.6875,1.350057869,0.8155
+Logistic Regression,81.0375,0.808258158,0.8105
+KNN,83.275,0.959817691,0.8485
+Decision Tree,85.4875,0.910786062,0.858
+ANN,,,0.8585
